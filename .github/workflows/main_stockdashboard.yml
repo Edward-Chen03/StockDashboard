@@ -61,5 +61,6 @@ jobs:
         with:
           app-name: 'stockdashboard'
           slot-name: 'Production'
-          package: .
+          package: ./server
+
           
